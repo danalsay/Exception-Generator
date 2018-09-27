@@ -1,0 +1,16 @@
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\obj\Debug\ExeptionGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\ExeptionGenerator.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\ExeptionGenerator.pdb
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\Microsoft.Data.Edm.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\Microsoft.Data.Edm.xml
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\obj\Debug\ExeptionGenerator.dll
+C:\Users\Dan\documents\visual studio 2010\Projects\ExeptionGenerator\ExeptionGenerator\obj\Debug\ExeptionGenerator.pdb
